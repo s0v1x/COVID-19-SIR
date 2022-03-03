@@ -7,7 +7,9 @@ Methods implemented for the differential system (SIR model) :
 * Implicit Euler
 * Runge Kutta 2 (Heun)
 * Runge Kutta 4
+  
 
+![The dashboard of SIR](dashboard.png)
 > Details about the SIR can be founf on the  [notebook](SIR_notebook.ipynb)
 
 ### Authors
