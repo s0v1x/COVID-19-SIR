@@ -10,8 +10,9 @@ Methods implemented for the differential system (SIR model) :
   
 
 ![The dashboard of SIR](dashboard.png)
-> Details about the SIR can be founf on the  [notebook](SIR_notebook.ipynb)
+> Details about the SIR can be found on the  [notebook](SIR_notebook.ipynb)
 
 ### Authors
 Salah Eddine LABIAD ([@s0v1x](https://github.com/s0v1x))
+
 Mouad Aterhi ([@AterhiM](https://github.com/AterhiM))
